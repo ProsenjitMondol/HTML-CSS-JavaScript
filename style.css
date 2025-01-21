@@ -1,0 +1,15 @@
+#box{
+    color: white;
+    background-color: blueviolet;
+}
+.heading{
+    color: rebeccapurple;
+}
+
+button{
+    background-color: blue;
+}
+
+a{
+    text-decoration:overline;
+}
